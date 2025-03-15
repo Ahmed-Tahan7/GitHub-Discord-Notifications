@@ -12,7 +12,7 @@ This helps track contributions and keeps the community updated automatically.
 ## **How It Works**  
 Whenever a **pull request** is created or closed, a notification appears in the **Discord server** like this:  
 
-![GitHub Actions Discord Bot](assets/image.png)  
+![GitHub Actions Discord Bot](assets/Discord screenshot.png)  
 
 Additionally, when a PR is **merged**, the bot assigns a **role** to the contributor in Discord.  
 
